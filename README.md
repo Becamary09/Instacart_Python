@@ -1,5 +1,5 @@
 # Instacart_Python
-Instacart is an online grocery store that operates through an applicationa and already has very good sales. However, they want to uncover more information about their sales patterns.
+Instacart is an online grocery store that operates through an application and already has very good sales. However, they want to uncover more information about their sales patterns.
 ## Objective
 Instacart's stakeholders are considering a targeted marketing strategy. They want to target different customers with applicable marketing campaigns to see whether they have an effect on the sale of their products. This analysis will inform what this strategy might look like to ensure Instacart targets the right customer profiles with the appropriate products.
 ## Data
