@@ -10,7 +10,7 @@ We were provided a sample data set for the sake of this practicing on this proje
 - Customers
 - Departments
 ## Folders
-This analysis was seperated into the followig folders:
+This analysis was seperated into the following folders:
 - 01 Project Management: Containing the Project Brief
 - 02 Data: Containing two seperate folders with the Original and Prepared data frames. This folder has not been included
 - 03 Scripts: Contains all Python coding that was made for the analysis
